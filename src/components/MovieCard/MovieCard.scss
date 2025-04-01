@@ -4,11 +4,3 @@
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
   gap: 20px;
 }
-
-.card-image img {
-  object-fit: contain;
-}
-
-.content {
-  padding: 20px;
-}
